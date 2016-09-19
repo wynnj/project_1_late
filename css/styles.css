@@ -216,5 +216,36 @@ margin-left: 0 0px;
   width: 300px;
   margin-top: 25px;
   box-shadow: 3px 3px 3px 3px;
-  margin-left: 100px;
+  margin-left: 80px;
+}
+.ad2{
+  margin-top: -40px;
+  margin-left: 15px
+}
+.minigreen{
+  color: white;
+  text-align: center;
+  background-color: #33cc66;
+  border-radius: 5px;
+  height: 25px;
+  z-index: 1;
+  margin-top: -100px;
+  font-family: sans-serif;
+}
+.minigreenb{
+  z-index: 1;
+}
+.whitebox3{
+  background-color: white;
+  border-radius: 5px;
+  height: 150px;
+  width: 300px;
+  margin-top: -150px;
+  box-shadow: 3px 3px 3px 3px;
+  margin-left: 740px;
+}
+.footer{
+  background-color: white;
+  height: 200px;
+  margin-top: -200px;
 }
