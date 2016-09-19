@@ -245,7 +245,48 @@ margin-left: 0 0px;
   margin-left: 740px;
 }
 .footer{
-  background-color: white;
-  height: 200px;
-  margin-top: -200px;
+  background-color: #f4f4f4;
+  height: 50px;
+  margin-top: 20px;
+}
+.footer-tutorial{
+  display: inline;
+  color: #9f9f9f;
+  padding-top: 15px;
+}
+.texty{
+  color: gray;
+  font-family: sans-serif;
+  font-size: 15px;
+  padding-left: 10px;
+  padding-top: 10px;
+  word-spacing: 10px;
+}
+.promotion{
+  margin-left: 400px;
+  margin-top: -33px;
+  font-size: 15px;
+}
+.upup{
+  margin-left: 900px;
+  margin-top: -60px;
+}
+.logout{
+  color: #2498f4;
+  font-size: 15px;
+  font-family: sans-serif;
+  font-style:normal;
+  font-weight: 600;
+}
+.car{
+  margin-left: 1000px;
+  margin-top: -57px;
+}
+.logout{
+  margin-left: 1050px;
+  margin-top: -30px;
+}
+.hope{
+  margin-left: 1200px;
+  margin-top: -60px;
 }
